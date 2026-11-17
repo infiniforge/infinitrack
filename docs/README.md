@@ -4,6 +4,8 @@ Planned Android music tracker and digital audio workstation.
 
 ## Start here
 
+- [Application description and implementation status](APPLICATION.md).
+
 - [Project overview and standalone build](../README.md).
 - [Repository-specific agent guidance](../AGENTS.md).
 - [InfiniForge ecosystem map](ECOSYSTEM.md) — generated from the organization manifest; do not edit this copy.
